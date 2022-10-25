@@ -1,4 +1,6 @@
-# Autominuto Frontend - SPA . this is the v1 of the Frontend  of autominuto my own Startup in Nodejs, angularjs and mongodb.
+# Autominuto Frontend - SPA 
+
+### This is the v1 of the Frontend  of autominuto my own Startup in Nodejs, angularjs and mongodb.
 
 #### This are the steps required to set up your environment
 
