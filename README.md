@@ -4,6 +4,9 @@
 
 #### This are the steps required to set up your environment
 
+###### Every folder in the source is a screen, in its inside has the route file, css, controllers and views. 19 folder in total
+###### In APP folder is webserver, routes has all the routes of the website, and service is to call external services like helpers and so, view has some static pug files to create PDF when you download cupons, or checkouts, or bills, etc. 
+
 1. Install Node Package Manager 
 
    ```   
